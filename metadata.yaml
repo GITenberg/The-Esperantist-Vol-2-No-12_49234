@@ -25,5 +25,7 @@ language: eo
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The Esperantist, Vol. 2, No. 12
 url: http://www.gutenberg.org/ebooks/49234
